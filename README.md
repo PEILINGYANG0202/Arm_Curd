@@ -8,12 +8,10 @@ ArmCurd_run.ipynb 是我完整跑完程式碼的樣子（可以參考結果）
 Arm Curd 2023/11/30-2023/12/4&ensp; </td></tr></table></font>
 <br>
 <h3>判讀程式碼目標：</h3>
-<h5>透過 MediaPipe 和 OpenCV 庫來偵測並計算手臂彎曲角度的程式，分析每個影片中慣用手（右手）：肱二頭肌手臂屈舉幾次</h5> 
-<br>
-Mediapipe 的骨架模型：
-<br>
+<h4>透過 MediaPipe 和 OpenCV 庫來偵測並計算手臂彎曲角度的程式，分析每個影片中慣用手（右手）：肱二頭肌手臂屈舉幾次</h4> 
 <br>
 
+Mediapipe 的骨架模型：
 ![](https://imgur.com/C98MGPb.png)<br>
 <br>
 Leading_leg 的關鍵點：右側：12, 14, 16/ 左側：11, 13, 15
@@ -34,6 +32,8 @@ Leading_leg 的關鍵點：右側：12, 14, 16/ 左側：11, 13, 15
 <br>
 左右兩側程式碼運行完結果<br>
 ![](https://imgur.com/tHovF3y.png)<br>
+<br>
+<br>
 <br>
 
 <h3>運行全部程式碼：</h3>
